@@ -1,2 +1,2 @@
 # BoomKin
-RimWorld mod (not work)
+RimWorld mod (work)
